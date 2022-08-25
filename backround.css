@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+.poop {
+    position:center;
+    left:0px;
+    top:0px;
+    background-color:pink;
+    display: flex;
+    justify-content: center;
+}
+.fort {
+    
+
+.buttonclass{
+    align-self: center;
+}
